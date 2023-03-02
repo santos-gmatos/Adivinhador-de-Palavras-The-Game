@@ -5,6 +5,7 @@
 
  int main(){
 setlocale(LC_ALL, "Portuguese");
+printf("In GitHub!?\n");
 printf("Instruções: %s %s %s","\n1º: Digite apenas uma única letra por vez.","\n2º: Digite somente letras MAIÚSCULAS.", "\n3º: Não repita a mesma letra, pois isso acumulará um erro.\n");
 printf("\nTenha um bom jogo!\n");
  	int a, b, c, d, e, i;
